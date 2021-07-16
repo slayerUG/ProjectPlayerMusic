@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Jul 15 23:36:52 COT 2021
+0.base=C\:\\Users\\Slayer94\\Desktop\\Music-Player-GO\\Music-Player-GO\\project\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
